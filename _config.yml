@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingzhe Li / Mubuky"
-description              : "A fourth-year B.Sc. student at SCIR (HIT, China), interning at Shanghai Innovation Institute."
+description              : "A prospective Ph.D. student jointly at the FDU and SII"
 repository               : "mubuky/mubuky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,7 +19,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Mingzhe Li / 李明哲"
   avatar           : "images/profile.png"
-  bio              : "B.Sc. student @ HIT | Researcher @ SCIR | Intern @ Shanghai Innovation Institute"
+  bio              : "Prospective Ph.D. student @ FDU | Intern @ Shanghai Innovation Institute"
   location         : "Shanghai, China"
   employer         : "Shanghai Innovation Institute"
   pubmed           : 
