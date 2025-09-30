@@ -1,0 +1,33 @@
+# Jekyll build outputs
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
