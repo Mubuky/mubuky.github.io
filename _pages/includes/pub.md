@@ -14,7 +14,7 @@
 
 
 ## 🎙 Multimodal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-Foveate</div><img src='images\paper\arxiv_thinkingwithvideo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VideoThinkBench</div><img src='images\paper\arxiv_thinkingwithvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 `arXiv` [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2507.23440), Jingqi Tong<sup>*</sup>, Yurong Mou<sup>*</sup>, Hangcheng Li<sup>*</sup>, **Mingzhe Li**<sup>*</sup>, Yongzhuo Yang<sup>*</sup>, Ming Zhang, Qiguang Chen, Tianyi Liang, Xiaomeng Hu, Yining Zheng, Xinchi Chen, Jun Zhao, Xuanjing Huang, Xipeng Qiu. [![](https://img.shields.io/github/stars/Mubuky/self-foveate?style=social&label=Code+Stars)](https://github.com/Mubuky/self-foveate)
 - Introduces **“Thinking with Video”**, a new paradigm unifying visual and textual reasoning through video generation models.
