@@ -6,8 +6,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-Foveate</div><img src='images/paper/acl25_self-foveate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 `Findings of ACL 2025` [Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation](https://arxiv.org/abs/2507.23440), **Mingzhe Li**, Xin Lu, Yanyan Zhao. [![](https://img.shields.io/github/stars/Mubuky/self-foveate?style=social&label=Code+Stars)](https://github.com/Mubuky/self-foveate)
-- Proposes an innovative **LLM-driven framework** named Self-Foveate for automated instruction synthesis without human annotation.
-- Introduces a **“Micro-Scatter-Macro” multi-level foveation** methodology guiding LLMs to extract fine-grained and diverse information from unsupervised text.
+- Proposes an automated **LLM-driven framework** named Self-Foveate for instruction synthesis from unsupervised text.
+- Introduces a **“Micro-Scatter-Macro” multi-level foveation** methodology guiding LLMs to extract fine-grained and diverse information.
 - Demonstrates **superior performance** across multiple unsupervised corpora and model architectures.
 </div>
 </div>
