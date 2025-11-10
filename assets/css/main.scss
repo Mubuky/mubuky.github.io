@@ -125,3 +125,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Publications section h2 margin adjustment */
+#-publications ~ h1 ~ h2 {
+    margin-bottom: 0.5em;
+}
