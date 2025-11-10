@@ -2,7 +2,7 @@
 
 # 📝 Publications
 
-<h2 style="margin-bottom: 10px;">🎙 Data Synthesis</h2>
+<h2 style="margin-bottom: 5px;">🎙 Data Synthesis</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-Foveate</div><img src='images/paper/acl25_self-foveate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 `Findings of ACL 2025` [Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation](https://arxiv.org/abs/2507.23440), **Mingzhe Li**<span style="opacity: 0.6;">, Xin Lu, Yanyan Zhao</span>. [![](https://img.shields.io/github/stars/Mubuky/self-foveate?style=social&label=Code+Stars)](https://github.com/Mubuky/self-foveate)
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<h2 style="margin-bottom: 10px;">🎙 Multimodal</h2>
+<h2 style="margin-bottom: 5px;">🎙 Multimodal</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VideoThinkBench</div><img src='images/paper/arxiv_thinkingwithvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 `arXiv` [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570), <span style="opacity: 0.6;">Jingqi Tong<sup>*</sup>, Yurong Mou<sup>*</sup>, Hangcheng Li<sup>*</sup>, </span>**Mingzhe Li**<sup>*</sup><span style="opacity: 0.6;">, Yongzhuo Yang<sup>*</sup>, Ming Zhang, Qiguang Chen, Tianyi Liang, Xiaomeng Hu, Yining Zheng, Xinchi Chen, Jun Zhao, Xuanjing Huang, Xipeng Qiu</span>. [![](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video?style=social&label=Code+Stars)](https://github.com/tongjingqi/Thinking-with-Video)
