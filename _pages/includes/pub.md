@@ -2,6 +2,10 @@
 
 # 📝 Publications
 
+## 🎙 Multimodal
+
+Coming Soon...
+
 ## 🎙 Data Synthesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-Foveate</div><img src='images/paper/acl25_self-foveate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
