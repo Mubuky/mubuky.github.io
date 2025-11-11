@@ -2,7 +2,7 @@
 
 # 📝 Publications
 
-## 🎙 Multimodal
+## 🎙 Innovator
 
 Coming Soon...
 
