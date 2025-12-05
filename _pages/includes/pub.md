@@ -3,7 +3,7 @@
 # Publications
 
 <div class='paper-box'>
-\* Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Project Lead
+* Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Project Lead
 </div>
 
 ## 🎙 Innovator
