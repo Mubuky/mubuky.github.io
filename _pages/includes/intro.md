@@ -1,3 +1,6 @@
+<span class='anchor' id='about-me'></span>
+
+# Biography
 
 I am a prospective Ph.D. student (starting Fall 2026) jointly at the College of Computer Science and Artificial Intelligence, **Fudan University**, and the **Shanghai Innovation Institute**, advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/). Currently, I am a senior undergraduate student at Harbin Institute of Technology. 
 
