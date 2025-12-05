@@ -1,17 +1,9 @@
+<span class='anchor' id='-educations'></span>
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
- -->
-
-
-<span class='anchor' id='-internships'></span>
-
-# 💻 Internships
-- *2025.08 - Present*, Shanghai Innovation Institute, Shanghai. 
+# 📖 Educations
+- *2022.08 - 2026.07*, Bachelor, Harbin Institute of Technology, Harbin.
+- *2026.09 - 2031.07 (Expected)*, Ph.D., Fudan University, Shanghai. (Jointly with Shanghai Innovation Institute)
 
 <span class='anchor' id='-services'></span>
-
 # ⭐ Academic Services
 - Conference Reviewer: ACL, CVPR.
