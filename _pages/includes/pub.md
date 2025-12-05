@@ -2,6 +2,8 @@
 
 # Publications
 
+* Equal Contribution    # Project Lead
+
 ## 🎙 Innovator
 
 <div class='paper-box'>
