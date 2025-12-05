@@ -19,8 +19,14 @@ Coming Soon...
 ## 🎙 Multimodal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VideoThinkBench</div><img src='images/paper/arxiv_thinkingwithvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`arXiv` [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570), <span style="opacity: 0.6;">Jingqi Tong<sup>*</sup>, Yurong Mou<sup>*</sup>, Hangcheng Li<sup>*</sup>, </span>**Mingzhe Li**<sup>*</sup><span style="opacity: 0.6;">, Yongzhuo Yang<sup>*</sup>, Ming Zhang, Qiguang Chen, Tianyi Liang, Xiaomeng Hu, Yining Zheng, Xinchi Chen, Jun Zhao, Xuanjing Huang, Xipeng Qiu</span>. [![](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video?style=social&label=Code+Stars)](https://github.com/tongjingqi/Thinking-with-Video)
-- Introduces **“Thinking with Video”**, a new paradigm unifying visual and textual reasoning through video generation models.
+`arXiv` [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570), <span style="opacity: 0.6;">Jingqi Tong<sup>*</sup>, Yurong Mou<sup>*</sup>, Hangcheng Li<sup>*</sup>, </span>**Mingzhe Li**<sup>*</sup><span style="opacity: 0.6;">, Yongzhuo Yang<sup>*</sup>, Ming Zhang, Qiguang Chen, Tianyi Liang, Xiaomeng Hu, Yining Zheng, Xinchi Chen, Jun Zhao, Xuanjing Huang, Xipeng Qiu</span>.
+
+<a href="https://huggingface.co/papers/2511.04570">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97%201st%20paper%20of%20the%20day-yellow" alt="HuggingFace 1st paper of the day">
+</a>
+
+[![](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video?style=social&label=Code+Stars)](https://github.com/tongjingqi/Thinking-with-Video)
+- Introduces **"Thinking with Video"**, a new paradigm unifying visual and textual reasoning through video generation models.
 - Develops **VideoThinkBench**, a reasoning benchmark for video generation models covering both vision-centric and text-centric tasks.
 - Demonstrates that Sora-2 **surpasses SOTA VLMs** on several tasks.
 </div>
