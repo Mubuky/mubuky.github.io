@@ -4,7 +4,9 @@
 
 ## 🎙 Innovator
 
+<div class='paper-box'>
 Coming Soon...
+</div>
 
 ## 🎙 Data Synthesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL (Findings) 2025</div><a href="https://arxiv.org/abs/2507.23440"><img src='images/paper/acl25_self-foveate.png' alt="Self-Foveate" width="100%"></a></div></div>
