@@ -125,3 +125,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 链接悬停变橙色效果 (inspired by codegoat24) */
+a {
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover, a:focus {
+    color: #f09228 !important;
+}
+
+/* 论文图片悬停效果 */
+.paper-box-image {
+    a {
+        display: block;
+        overflow: hidden;
+
+        img {
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+
+        &:hover img {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+    }
+}
