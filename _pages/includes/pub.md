@@ -13,7 +13,7 @@ Coming Soon...
 ## 🎙 Data Synthesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL (Findings) 2025</div><a href="https://arxiv.org/abs/2507.23440"><img src='images/paper/acl25_self-foveate.png' alt="Self-Foveate" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-[Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation](https://arxiv.org/abs/2507.23440), **Mingzhe Li**<span style="opacity: 0.6;">, Xin Lu, Yanyan Zhao</span>. [![](https://img.shields.io/github/stars/Mubuky/self-foveate?style=social&label=Code+Stars)](https://github.com/Mubuky/self-foveate)
+[Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation](https://arxiv.org/abs/2507.23440), **Mingzhe Li**<sup>#</sup><span style="opacity: 0.6;">, Xin Lu, Yanyan Zhao</span>. [![](https://img.shields.io/github/stars/Mubuky/self-foveate?style=social&label=Code+Stars)](https://github.com/Mubuky/self-foveate)
 - Proposes an automated **LLM-driven framework** named Self-Foveate for instruction synthesis from unsupervised text.
 - Introduces a **“Micro-Scatter-Macro” multi-level foveation** methodology guiding LLMs to extract fine-grained and diverse information.
 - Demonstrates **superior performance** across multiple unsupervised corpora and model architectures.
