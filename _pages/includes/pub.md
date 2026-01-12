@@ -30,3 +30,13 @@ Coming Soon...
 - Demonstrates that Sora-2 **surpasses SOTA VLMs** on several tasks.
 </div>
 </div>
+
+## ♠ LLM Safety
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://arxiv.org/abs/2601.03537"><img src='images/paper/arxiv_star-s.png' alt="Thinking with Video" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+[STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules](https://arxiv.org/abs/2601.03537), <span style="opacity: 0.6;">Di Wu, Yanyan Zhao, Xin Lu, </span>**Mingzhe Li**<span style="opacity: 0.6;">, Bing Qin</span>. [![](https://img.shields.io/github/stars/pikepokenew/STAR_S?style=social&label=Code+Stars)](https://github.com/pikepokenew/STAR_S)
+- Proposes **STAR-S**, a self-taught reasoning framework for safety alignment of LLMs.
+- Introduces **Safety-Aware Reasoning** to guide LLMs to reason about safety rules during training.
+- Demonstrates that STAR-S **improves safety alignment** on multiple benchmarks.
+</div>
+</div>
