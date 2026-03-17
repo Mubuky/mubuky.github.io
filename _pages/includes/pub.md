@@ -12,7 +12,6 @@
 [AI Can Learn Scientific Taste](https://arxiv.org/abs/2603.14473), <span style="opacity: 0.6;">Jingqi Tong<sup>*</sup>, </span>**Mingzhe Li**<sup>*</sup><span style="opacity: 0.6;">, Hangcheng Li<sup>*</sup>, Yongzhuo Yang, Yurong Mou, Weijie Ma, Zhiheng Xi, Hongji Chen, Xiaoran Liu, Qinyuan Cheng, Ming Zhang, Qiguang Chen, Weifeng Ge, Qipeng Guo, Tianlei Ying, Tianxiang Sun, Yining Zheng, Xinchi Chen, Jun Zhao, Ning Ding, Xuanjing Huang, Yugang Jiang, Xipeng Qiu</span>. <a href="https://huggingface.co/papers/2603.14473"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20%231%20paper%20of%20the%20month-yellow" alt="HuggingFace #1 paper of the month"></a> [![](https://img.shields.io/github/stars/tongjingqi/AI-Can-Learn-Scientific-Taste?style=social&label=Code+Stars)](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste)
 - Introduces **Reinforcement Learning from Community Feedback (RLCF)**, leveraging large-scale citation data as training signals for scientific evaluation.
 - Develops **Scientific Judge** (trained on 700K paper pairs) and **Scientific Thinker** for generating high-impact research proposals.
-- Scientific Judge **outperforms SOTA LLMs** and generalizes across time periods, new research areas, and peer-review standards.
 </div>
 </div>
 
